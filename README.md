@@ -62,6 +62,16 @@ right click on Project Space->new->Dynamic web project->enter project name->next
 Run dynamic web project on tomcat in eclipse:<br />
 right click on the project name->run as->run on server->choose an existing server->check:Always use this server when running this project->finish(click Servers tab's Tomcat v9.0 <br />Server at localhost->TestWeb [Synchronized])<br />
 
+Check dynamic web project's properties:<br />
+resource->text file encoding->click inherited from container(UTF-8)<br />
+Java compiler->make sure they are set correctly<br />
+Java build path->libraries<br />
+Server-><br />
+Project Facets->click 'Java'->runtimes<br />
+Deployment Assembly-><br />
+
+Done!<br />
+
 
 
 
