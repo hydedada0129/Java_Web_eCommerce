@@ -5,8 +5,11 @@ OS:Ubuntu 20.04
 IDE:Eclipse 4.34.0
 
 Java --version 
+
   openjdk 11.0.25 2024-10-15
+  
   OpenJDK Runtime Environment (build 11.0.25+9-post-Ubuntu-1ubuntu120.04)
+  
   OpenJDK 64-Bit Server VM (build 11.0.25+9-post-Ubuntu-1ubuntu120.04, mixed mode, sharing)
 
 
